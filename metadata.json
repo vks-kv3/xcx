@@ -1,0 +1,8 @@
+{
+  "name": "Remix VKSND Khu Vực 3 - Quảng Trị: Cuộc Thi Kỹ Năng Số \u0026 An Toàn Thông Tin",
+  "description": "Hệ thống thi trắc nghiệm trực tuyến Cuộc thi \u0027Nâng cao nhận thức, kỹ năng số và bảo đảm an toàn thông tin\u0027 - Viện kiểm sát nhân dân khu vực 3 - Quảng Trị với ngân hàng 50 câu hỏi, xáo trộn đề, bảng xếp hạng và xuất PDF kết quả.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
